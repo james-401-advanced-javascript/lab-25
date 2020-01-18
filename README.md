@@ -14,4 +14,4 @@
 
 ### UML
 
-![Lab-24](images/Lab-25.jpg)
+![Lab-25](images/Lab-25.jpg)
